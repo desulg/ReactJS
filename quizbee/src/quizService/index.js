@@ -368,6 +368,18 @@ const qBank = [
     answers: ["Arby's", "McDonald's", "Burger King", "Wendy's"],
     correct: "Arby's",
     questionId: "4982981"
+  },
+  {
+    question: "How many players are on an NBA team roster",
+    answers: ["12", "5", "13", "10"],
+    correct: "12",
+    questionId: "4982943"
+  },
+  {
+    question: "Which NBA team has won the most titles?",
+    answers: ["Los Angeles Lakers", "Chicago Bulls", "Boston Celtics", "Golden State Warriors"],
+    correct: "Boston Celtics",
+    questionId: "4982946"
   }
 ];
 
